@@ -1,4 +1,5 @@
 <?php
+//Ejercicio2
 $sumaAcumulada = 0;
 $lanzamiento = 1;
 
